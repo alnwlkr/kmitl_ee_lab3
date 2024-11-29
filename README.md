@@ -23,9 +23,9 @@ This experiment studies the following topics:
    - Power factor (while applying a mechanical load)  
 
 The script in this repository will plot a relationship between
-- (p21.m) $Theoretical Input Current ($I_{i/p}$) \& Output Torque Relationship ($T_{o/p}$)$
-- (p22.m) $Theoretical Slip (s) \& Output Torque Relationship ($T_{o/p}$)$
-- (p23.m) $Theoretical Input Power Factor ($PF_{i/p}$) \& Output Torque Relationship ($T_{o/p}$)$
-- (p31.m) $Practical Input Current ($I_{i/p}$) \& Output Torque Relationship ($T_{o/p,pulley}$)$
-- (p32.m) $Practical Slip (s) \& Output Torque Relationship ($T_{o/p,pulley}$)$
-- (p33.m) $Practical Input Power Factor ($PF_{i/p}$) \& Output Torque Relationship ($T_{o/p,pulley}$)$
+- (p21.m) Theoretical Input Current ($I_{i/p}$) \& Output Torque Relationship ($T_{o/p}$)
+- (p22.m) Theoretical Slip (s) \& Output Torque Relationship ($T_{o/p}$)
+- (p23.m) Theoretical Input Power Factor ($PF_{i/p}$) \& Output Torque Relationship ($T_{o/p}$)
+- (p31.m) Practical Input Current ($I_{i/p}$) \& Output Torque Relationship ($T_{o/p,pulley}$)
+- (p32.m) Practical Slip (s) \& Output Torque Relationship ($T_{o/p,pulley}$)
+- (p33.m) Practical Input Power Factor ($PF_{i/p}$) \& Output Torque Relationship ($T_{o/p,pulley}$)
